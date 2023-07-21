@@ -4,15 +4,9 @@
 
 Sou um desenvolvedor Full Stack com um direcionamento de carreira para Front-End, com um foco especial em desenvolvimento mobile com Flutter. Atualmente, estou apaixonado pela criação de aplicativos e pela exploração das possibilidades que o Flutter oferece para criar interfaces de usuário interativas e animadas.
 
-![profile-picture](https://ibb.co/fqdT64q)
 
 - 🌱 Atualmente estou aprendendo mais sobre animações complexas com Flutter.
-- 💼 Atualmente estou buscando oportunidades para trabalhar em projetos desafiadores de Front-End ou Mobile.
-
-## Paleta de Cores
-
-- Cor Primária: #004B78
-- Outras Cores: [Inclua aqui outras cores que complementam a cor primária]
+- 💼 Atualmente estou buscando oportunidades para trabalhar em projetos desafiadores de Front-End Mobile.
 
 ## Meus Projetos Mobile
 
