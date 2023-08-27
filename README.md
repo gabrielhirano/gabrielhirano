@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor Full Stack com um direcionamento de carreira para Front-End, com um foco especial em desenvolvimento mobile com Flutter. Atualmente, estou apaixonado pela criação de aplicativos e pela exploração das possibilidades que o Flutter oferece para criar interfaces de usuário interativas e animadas.
+Sou um desenvolvedor Front End com um direcionamento de carreira para Front-End, com um foco especial em desenvolvimento mobile com Flutter. Atualmente, estou apaixonado pela criação de aplicativos e pela exploração das possibilidades que o Flutter oferece para criar interfaces de usuário interativas e animadas.
 
 
 - 🌱 Atualmente estou aprendendo mais sobre animações complexas com Flutter.
