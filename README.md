@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um desenvolvedor Front End com um direcionamento de carreira para Front-End, com um foco especial em desenvolvimento mobile com Flutter. Atualmente, estou apaixonado pela criação de aplicativos e pela exploração das possibilidades que o Flutter oferece para criar interfaces de usuário interativas e animadas.
+Sou um desenvolvedor Front End, com um foco especial em desenvolvimento mobile com Flutter. Atualmente, estou apaixonado pela criação de aplicativos e pela exploração das possibilidades que o Flutter oferece para criar interfaces de usuário interativas e animadas.
 
 
 - 🌱 Atualmente estou aprendendo mais sobre animações complexas com Flutter.
@@ -54,8 +54,7 @@ Além dos projetos mencionados acima, também tenho trabalhado em alguns projeto
 
 ## Entre em Contato
 
-- LinkedIn: [Seu Perfil do LinkedIn](url_do_seu_perfil_do_linkedin)
-- Twitter: [@SeuNomeNoTwitter](url_do_seu_perfil_no_twitter)
+- LinkedIn: [linkedin.com/in/gabriel-hirano](https://www.linkedin.com/in/gabriel-hirano/)
 
 Se você está interessado em colaborar em algum dos meus projetos ou tiver alguma oportunidade profissional interessante, sinta-se à vontade para entrar em contato através das redes sociais acima ou pelo email: seuemail@example.com.
 
