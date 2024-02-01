@@ -7,6 +7,6 @@
 -->
 
 <div align="center">
-<img src="https://github.com/gabrielhirano/gabrielhirano/blob/main/assets/dart_side.png" width="400"> 
+<img src="https://github.com/gabrielhirano/gabrielhirano/blob/main/assets/dart_side.png" width="600"> 
 </div>
 
